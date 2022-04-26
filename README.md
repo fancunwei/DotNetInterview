@@ -1,6 +1,5 @@
-# DotNetInterview
-dotnet 面试搜集
-# .Net面试题收集
+# DotNetInterview/ .Net面试题收集
+
 ## One 计算机基础
 ### 一、操作系统/Linux/Windows
 1 epoll/nio
